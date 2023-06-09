@@ -23,4 +23,4 @@ To get started with the Haskell Chess Engine, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/haskell-chess-engine.git
+https://github.com/Malek74/Chess-Game
